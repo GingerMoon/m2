@@ -6,6 +6,6 @@ import (
 )
 
 func Print() {
-    fmt.Println("m2-v1.0.2");
+    fmt.Println("m2-v1.0.3");
     m1.Print()
 }
